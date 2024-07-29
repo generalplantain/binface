@@ -15,7 +15,7 @@ Binface is a macOS tool designed to recover items from the Trash by copying them
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/macos-trash-recovery.git
+    git clone https://github.com/generalplantain/binface
     cd binface
     ```
 
